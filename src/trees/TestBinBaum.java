@@ -13,5 +13,6 @@ public class TestBinBaum {
 
         System.out.println(bsb.toStringSortiert());
         System.out.println(bsb.tiefe());
+
     }
 }

@@ -50,6 +50,13 @@ class Knoten {
         // Sonst null
         return null;
     }
+   public int anzahl(){
+
+
+
+
+        return 0;
+   }
 
     // NLR-Ausgabe
     public String toString() {

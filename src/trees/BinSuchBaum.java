@@ -90,4 +90,6 @@ public class BinSuchBaum {
     public int tiefe() {
         return wurzel.tiefe();
     }
+
 }
+

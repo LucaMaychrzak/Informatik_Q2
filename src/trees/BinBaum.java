@@ -22,6 +22,7 @@ public class BinBaum {
         return wurzel.suche(gesucht);
     }
 
+
     public static void main(String[] args) {
         BinBaum bb = new BinBaum();
         System.out.println(bb.suche(5)); //? => Knoten(5)
